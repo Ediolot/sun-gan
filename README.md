@@ -13,6 +13,6 @@ computational power, a cheaper alternative in time and resources is introduced.*
 (128x128px) that resemble the surface of the Sun around an area of approximately 2.62 ∗ 107km2 which with the proposed method can be composed into an
 image of arbitrarily any size given enough tiles. [...]*
 
-[<img src="https://gitlab.com/Ediolot/sun-gan/-/raw/master/doc/media/8x8.png" width="500" height="500">](/doc/media/8x8.png)
+[<img src="https://gitlab.com/Ediolot/sun-gan/-/raw/master/doc/media/8x8.png" width="600" height="600">](/doc/media/8x8.png)
 
 Sample generated Sun surface image
